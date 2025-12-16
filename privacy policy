@@ -1,0 +1,220 @@
+Privacy Policy
+
+Last Updated: 15 December 2025
+
+1. Introduction
+
+This Privacy Policy describes how Loadcounter (“we,” “our,” or “the app”) collects, uses, and protects information when you use our mobile application. We are committed to protecting your privacy and being transparent about our data practices.
+
+2. Information We Collect
+2.1 Location Data
+
+GPS Coordinates:
+The app collects precise location data (latitude and longitude) to enable geofencing features for automatic load counting.
+
+Real-Time Location Processing:
+Location data is processed in real time to detect when you enter or exit predefined collection point zones.
+
+Background Location:
+The app may access location data in the background to continuously monitor geofence boundaries, even when the app is not in the foreground.
+
+2.2 Job and Work Data
+
+Project Information:
+Project names, job start and end times, and tracking data (hours, kilometers, or miles).
+
+Load Data:
+Load counts, timestamps, and payload measurements (area, weight, volume) with associated units.
+
+Time Tracking:
+Idle time and motion time calculated based on GPS movement patterns.
+
+Hobbs Meter Readings:
+Start and end meter readings used for job tracking.
+
+2.3 Geofence Data
+
+Collection Points:
+Custom locations you create, including names, coordinates, radius settings, and stationary delay configurations.
+
+Geofence Status:
+Active or inactive status of collection points.
+
+2.4 App Preferences
+
+Theme preferences (such as dark mode), tutorial completion status, and instruction panel visibility settings.
+
+2.5 Purchase Information
+
+In-App Purchases:
+Purchase IDs and transaction status for ad-removal purchases, processed securely through Google Play.
+
+2.6 Information We Do NOT Collect
+
+We do not collect:
+
+Names, email addresses, or phone numbers
+
+Account credentials or authentication data
+
+Payment card or banking information
+
+Contacts, photos, or other device files
+
+3. How We Use Your Information
+3.1 Core Functionality
+
+Geofencing: Automatically detect entry and exit from collection zones
+
+Automatic Load Counting: Increment load counts after exiting a zone following a stationary period
+
+Job Tracking: Store and display job history, load counts, and work statistics
+
+Map Display: Show your location and collection points on interactive maps
+
+Time Tracking: Calculate idle and motion time using GPS movement
+
+3.2 App Features
+
+Remember UI and theme preferences
+
+Store jobs and geofences locally on your device
+
+Generate PDF job reports for export or sharing
+
+4. Data Storage
+4.1 Local-Only Storage
+
+All data is stored locally on your device using Android’s local storage mechanisms.
+
+No cloud storage
+
+No external servers
+
+No account syncing
+
+Your data remains on your device until you:
+
+Delete the app
+
+Delete jobs or geofences within the app
+
+Clear app data via device settings
+
+4.2 Data Ownership
+
+You fully own and control your data. You may export job data as PDF files or delete any stored information at any time.
+
+5. Third-Party Services
+5.1 Google Maps
+
+Purpose: Interactive maps and location rendering
+Data Shared: Location coordinates and geofence markers
+Privacy Policy: https://policies.google.com/privacy
+
+5.2 Google Mobile Ads (AdMob)
+
+Purpose: Display advertisements (unless ad removal is purchased)
+
+AdMob may collect:
+
+Device information
+
+Advertising ID
+
+App usage data
+
+We do not have access to or control over data collected directly by Google AdMob.
+
+Ad Removal:
+You may permanently remove ads through an in-app purchase.
+
+Privacy Policy: https://policies.google.com/privacy
+
+5.3 Google Play Services
+
+Purpose: Process in-app purchases
+Data Shared: Purchase confirmation and transaction IDs
+Privacy Policy: https://policies.google.com/privacy
+
+5.4 Firebase Crashlytics
+
+Purpose: Monitor app stability and diagnose crashes
+Data Collected: Anonymous crash reports, device model, OS version
+Personal Data: No personally identifiable information is collected
+Privacy Policy: https://policies.google.com/privacy
+
+6. Location Data Details
+6.1 Why Location Access Is Required
+
+Enable geofencing for collection zones
+
+Automatically count loads when leaving a zone
+
+Display your current position on the map
+
+6.2 Location Accuracy
+
+The app uses high-accuracy location settings to ensure reliable geofencing.
+Location data is processed in real time and not stored as a continuous location history.
+
+6.3 Background Location Access
+
+Background location access is essential to the core functionality of the app and cannot be replaced with foreground-only access. Load counting must occur automatically when the user exits a collection zone, even if the screen is off or the app is closed.
+
+You may revoke location permissions at any time in device settings; doing so will disable geofencing and automatic load counting.
+
+7. Data Sharing and Disclosure
+7.1 No Sale of Data
+
+We do not sell, rent, or trade user data.
+
+7.2 Limited Sharing
+
+Google Maps for map rendering
+
+Google AdMob for advertising (if enabled)
+
+Google Play Services for purchases
+
+No job data, geofences, or work information is shared with other parties.
+
+7.3 Legal Requirements
+
+We may disclose information if required by law or to protect our legal rights and safety.
+
+8. Your Rights and Choices
+
+Permissions: Grant or revoke location access at any time
+
+Access: View all job and geofence data in the app
+
+Deletion: Delete individual jobs or all app data
+
+Ads: Remove ads permanently via in-app purchase
+
+9. Data Security
+
+All data is stored locally using Android’s storage systems. While reasonable security measures are used, no electronic storage method is completely secure. You are responsible for maintaining the security of your device.
+
+10. Children’s Privacy
+
+Loadcounter is not intended for children under 13. We do not knowingly collect data from children.
+
+11. International Users
+
+The app is operated from New Zealand.
+All data is stored locally on your device regardless of location.
+
+12. Changes to This Privacy Policy
+
+We may update this policy periodically. Changes will be reflected by updating the “Last Updated” date. Continued use of the app constitutes acceptance of the updated policy.
+
+13. Contact Us
+
+If you have questions about this Privacy Policy:
+
+Email: fan030163@gmail.com
+
+App Name: Loadcounter
+Version: 1.0.1+45
